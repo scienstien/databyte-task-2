@@ -1,0 +1,68 @@
+HYPERTENSION MANAGEMENT PROTOCOL
+(Sample Document for Testing)
+
+1. DEFINITION AND CLASSIFICATION
+Hypertension is defined as a sustained systolic blood pressure (SBP) >= 140 mmHg and/or diastolic blood pressure (DBP) >= 90 mmHg, measured on at least two separate occasions.
+
+Classification (ESC/ESH 2023 Guidelines):
+- Optimal: SBP < 120 and DBP < 80 mmHg
+- Normal: SBP 120–129 and/or DBP 80–84 mmHg
+- High-normal: SBP 130–139 and/or DBP 85–89 mmHg
+- Grade 1 Hypertension: SBP 140–159 and/or DBP 90–99 mmHg
+- Grade 2 Hypertension: SBP 160–179 and/or DBP 100–109 mmHg
+- Grade 3 Hypertension: SBP >= 180 and/or DBP >= 110 mmHg
+- Isolated Systolic Hypertension: SBP >= 140 and DBP < 90 mmHg
+
+2. MEASUREMENT
+Blood pressure should be measured after 5 minutes of rest in a seated position. At least two readings 1–2 minutes apart should be averaged. Confirm hypertension with ambulatory blood pressure monitoring (ABPM) or home blood pressure monitoring (HBPM) wherever possible.
+
+White coat hypertension is defined as office BP >= 140/90 mmHg but 24-hour ABPM or HBPM < 130/80 mmHg. Masked hypertension is the reverse pattern.
+
+3. TREATMENT TARGETS
+- General adult population: < 130/80 mmHg (if tolerated)
+- Age >= 65 years: SBP 130–139 mmHg (individualized, avoid < 120 mmHg)
+- Diabetes: < 130/80 mmHg
+- Chronic kidney disease: < 130/80 mmHg
+- Post-stroke: < 130/80 mmHg
+
+4. NON-PHARMACOLOGICAL INTERVENTIONS
+All patients with hypertension or high-normal BP should be advised on lifestyle modifications:
+- Sodium reduction: < 5 g/day dietary salt intake
+- DASH diet (Dietary Approaches to Stop Hypertension): rich in fruits, vegetables, low-fat dairy, and low in saturated fat
+- Weight reduction: Target BMI 18.5–24.9 kg/m²; each 10 kg weight loss reduces SBP by approximately 6 mmHg
+- Physical activity: 150–300 minutes/week moderate aerobic activity, or 75 minutes vigorous activity
+- Alcohol limitation: < 14 units/week for men, < 8 units/week for women
+- Smoking cessation: strongly recommended (does not directly lower BP but greatly reduces cardiovascular risk)
+
+5. PHARMACOLOGICAL MANAGEMENT
+
+5.1 First-line agents
+Four major drug classes are recommended as first-line therapy:
+a) ACE inhibitors (ACEi) — e.g. ramipril, lisinopril, perindopril
+b) Angiotensin receptor blockers (ARBs) — e.g. losartan, valsartan, irbesartan
+c) Calcium channel blockers (CCBs) — e.g. amlodipine, felodipine
+d) Thiazide/thiazide-like diuretics — e.g. indapamide, chlorthalidone
+
+ACEi and ARBs should NOT be combined together due to increased risk of hyperkalaemia, renal dysfunction, and hypotension.
+
+5.2 Preferred agents in specific conditions
+- Heart failure with reduced EF: ACEi + beta-blocker + MRA + SGLT-2i
+- Post-myocardial infarction: ACEi + beta-blocker
+- Stable angina: CCB or beta-blocker
+- Atrial fibrillation: ACEi or ARB (+ beta-blocker for rate control)
+- Chronic kidney disease with proteinuria: ACEi or ARB (renally protective)
+- Pregnancy: methyldopa, labetalol, or nifedipine (avoid ACEi/ARB — teratogenic)
+- Black African patients: CCB or thiazide diuretic preferred over ACEi/ARB monotherapy
+
+5.3 Combination therapy
+Most patients require 2 or more drugs to achieve target BP. Preferred combination is:
+ACEi or ARB + CCB; if insufficient, add thiazide diuretic (triple therapy).
+Resistant hypertension (uncontrolled on 3 drugs including a diuretic): add spironolactone 25–50 mg/day.
+
+6. FOLLOW-UP
+After initiating or changing therapy, review in 4 weeks. Once stable, annual review is acceptable. Monitor renal function, electrolytes, and BP at each visit. Consider ABPM annually in treated patients to exclude white coat effect.
+
+7. HYPERTENSIVE EMERGENCIES
+Hypertensive emergency: severely elevated BP (usually > 180/120 mmHg) with evidence of acute target organ damage (encephalopathy, AKI, pulmonary oedema, aortic dissection, STEMI/NSTEMI). Requires IV therapy — labetalol, nicardipine, or sodium nitroprusside depending on the scenario. Reduce mean arterial pressure by no more than 25% in the first hour.
+
+Hypertensive urgency: severely elevated BP without organ damage. Oral therapy; aim to lower BP over 24–48 hours.

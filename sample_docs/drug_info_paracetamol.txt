@@ -1,0 +1,67 @@
+DRUG INFORMATION SHEET
+Paracetamol (Acetaminophen)
+(Sample Document for Testing)
+
+GENERIC NAME: Paracetamol (INN) / Acetaminophen (USAN)
+DRUG CLASS: Non-opioid analgesic, Antipyretic
+ATC CODE: N02BE01
+
+INDICATIONS
+Paracetamol is indicated for the relief of mild to moderate pain including headache, migraine, toothache, sore throat, and pain associated with colds and flu. It is also used for the symptomatic relief of fever.
+
+DOSAGE AND ADMINISTRATION
+
+Adults and children over 12 years:
+- Oral: 500–1000 mg every 4–6 hours as required. Maximum dose: 4000 mg (4 g) in 24 hours.
+- Intravenous (IV): 1000 mg every 4–6 hours. Maximum 4 g/24 hours. Infuse over 15 minutes.
+
+Children (oral):
+- 3–6 months: 60 mg every 4–6 hours (max 4 doses/24 hours)
+- 6–24 months: 120 mg every 4–6 hours (max 4 doses)
+- 2–4 years: 180 mg every 4–6 hours
+- 4–6 years: 240 mg every 4–6 hours
+- 6–8 years: 240–250 mg every 4–6 hours
+- 8–10 years: 360–375 mg every 4–6 hours
+- 10–12 years: 480–500 mg every 4–6 hours
+
+DOSE REDUCTION
+Reduce dose or increase dosing interval in:
+- Hepatic impairment: maximum 2 g/24 hours; avoid in severe hepatic failure
+- Chronic alcoholism: maximum 2 g/24 hours
+- Renal impairment (eGFR < 30 mL/min): increase dosing interval to at least 6 hours
+
+CONTRAINDICATIONS
+- Hypersensitivity to paracetamol or any excipients
+- Severe hepatocellular insufficiency
+
+WARNINGS AND PRECAUTIONS
+- Hepatotoxicity: Overdose is the most common cause of acute liver failure. Risk is increased with concomitant alcohol use, fasting, malnutrition, hepatic disease, or enzyme-inducing drugs.
+- Do not exceed the stated dose.
+- Do not take with other paracetamol-containing products.
+- Patients with phenylketonuria should be cautioned regarding formulations containing aspartame.
+- Caution in G6PD deficiency.
+
+OVERDOSE
+The risk of overdose leading to hepatotoxicity is serious. Symptoms of overdose may be delayed up to 24–72 hours after ingestion (nausea, vomiting, abdominal pain, followed by signs of liver failure).
+Management: N-acetylcysteine (NAC) is the antidote. Refer to the Rumack-Matthew nomogram for treatment thresholds. NAC is most effective within 8 hours of ingestion; however, should be given up to 24 hours post-ingestion.
+
+DRUG INTERACTIONS
+- Warfarin: Prolonged or high-dose paracetamol use may potentiate anticoagulant effect. Monitor INR.
+- Enzyme inducers (e.g. rifampicin, carbamazepine, phenytoin, St. John's Wort): May increase formation of hepatotoxic metabolite NAPQI. Use with caution.
+- Probenecid: Reduces paracetamol clearance; dose reduction may be needed.
+- Metoclopramide/Domperidone: May increase rate of paracetamol absorption.
+
+MECHANISM OF ACTION
+Paracetamol exerts its analgesic and antipyretic effects primarily via inhibition of prostaglandin synthesis in the central nervous system and through modulation of the endocannabinoid system. Unlike NSAIDs, paracetamol has minimal peripheral anti-inflammatory activity.
+
+PHARMACOKINETICS
+- Absorption: Rapidly and almost completely absorbed from the GI tract. Tmax: 30–90 minutes (oral).
+- Distribution: Widely distributed. Volume of distribution: 0.7–1.0 L/kg. Low protein binding (~20%).
+- Metabolism: Primarily hepatic. Approx. 90% conjugated to glucuronide and sulphate. ~5% via CYP2E1 to NAPQI (hepatotoxic metabolite, detoxified by glutathione).
+- Elimination: Renal excretion as conjugates. Half-life: 1–4 hours (normal); prolonged in hepatic impairment.
+
+STORAGE
+Store below 25°C. Keep out of reach of children.
+
+PRESENTATION
+Tablets 500 mg, Caplets 500 mg, Oral suspension 120 mg/5 mL and 250 mg/5 mL, Suppositories 125 mg / 250 mg / 500 mg, IV infusion 10 mg/mL (100 mL vials).

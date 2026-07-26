@@ -1,0 +1,45 @@
+DIABETES MELLITUS MANAGEMENT GUIDELINES
+(Sample Document for Testing)
+
+1. DIAGNOSIS
+Type 2 diabetes is diagnosed when fasting plasma glucose is >= 126 mg/dL (7.0 mmol/L) on two separate occasions, or a 2-hour plasma glucose >= 200 mg/dL during an oral glucose tolerance test (OGTT), or a random plasma glucose >= 200 mg/dL with classic symptoms of hyperglycaemia, or HbA1c >= 6.5%.
+
+Pre-diabetes is diagnosed when fasting glucose is 100–125 mg/dL (impaired fasting glucose) or 2-hour OGTT glucose is 140–199 mg/dL (impaired glucose tolerance) or HbA1c is 5.7–6.4%.
+
+2. GLYCAEMIC TARGETS
+For most non-pregnant adults with Type 2 diabetes, the recommended HbA1c target is < 7.0% (53 mmol/mol). Less stringent targets (< 8.0%) are appropriate for patients with a history of severe hypoglycaemia, limited life expectancy, or extensive comorbidities. More stringent targets (< 6.5%) may be appropriate if achievable without significant hypoglycaemia.
+
+Fasting plasma glucose target: 80–130 mg/dL (4.4–7.2 mmol/L).
+Post-prandial peak glucose target (1–2 hours after meal): < 180 mg/dL (< 10.0 mmol/L).
+
+3. PHARMACOLOGICAL MANAGEMENT
+
+3.1 First-line therapy
+Metformin remains the preferred initial pharmacological agent for Type 2 diabetes in the absence of contraindications. It reduces HbA1c by approximately 1–2%, causes minimal weight gain, has a low risk of hypoglycaemia when used as monotherapy, and has cardiovascular benefit data.
+
+Contraindications to metformin include: eGFR < 30 mL/min/1.73m², active or excessive alcohol use, hepatic impairment, and history of lactic acidosis.
+
+3.2 Second-line and combination therapy
+When metformin alone is insufficient to achieve glycaemic targets after 3 months, a second agent should be added. Choice depends on clinical features:
+- SGLT-2 inhibitors (e.g. empagliflozin, dapagliflozin): preferred in patients with established cardiovascular disease, heart failure, or chronic kidney disease (eGFR 30–60).
+- GLP-1 receptor agonists (e.g. semaglutide, liraglutide): preferred in patients with established cardiovascular disease or who need weight loss.
+- DPP-4 inhibitors (e.g. sitagliptin, saxagliptin): neutral effect on weight, low hypoglycaemia risk, useful in elderly patients.
+- Sulfonylureas (e.g. glipizide, glimepiride): low cost but carry hypoglycaemia risk and modest weight gain.
+- Insulin: indicated when HbA1c remains > 10% despite dual therapy or when patient is symptomatic.
+
+3.3 Insulin therapy
+Basal insulin (e.g. insulin glargine, insulin detemir) is the preferred initial insulin regimen, starting at 10 units/day or 0.1–0.2 units/kg/day. Titrate dose by 2 units every 3 days if fasting glucose exceeds target.
+
+4. MONITORING
+HbA1c should be measured every 3 months until stable, then every 6 months. Self-monitoring of blood glucose (SMBG) is recommended for patients on insulin or sulfonylureas.
+
+Annual screening for complications:
+- Nephropathy: urine albumin-to-creatinine ratio (UACR) and eGFR
+- Retinopathy: dilated fundus examination
+- Neuropathy: monofilament sensory examination
+- Cardiovascular: blood pressure, lipid panel, ECG
+
+5. LIFESTYLE INTERVENTIONS
+Diet: Recommend a Mediterranean-style or low-carbohydrate diet. Reduce refined sugars and saturated fats. Target caloric deficit of 500–750 kcal/day for overweight patients.
+Physical activity: Minimum 150 minutes per week of moderate-intensity aerobic activity and 2 sessions of resistance training per week.
+Weight loss: Even 5–10% reduction in body weight significantly improves glycaemic control.
